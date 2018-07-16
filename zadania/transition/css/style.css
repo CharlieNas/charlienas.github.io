@@ -1,0 +1,79 @@
+body {
+    background-color: whitesmoke;
+}
+
+/* Animacja Tekstu
+a {
+    color: gray;
+    transition-property: color;
+    transition-duration: 5s;
+    transition-timing-function: ease-in;
+    transition-delay: 2s;
+}
+
+a {
+    color: gray;
+    transition: color 2s ease-in 1s;
+    font-size: 60px;
+    position: absolute;
+    left: 20px;
+    top: 30px;
+}
+
+
+a:hover {
+    color: orange; 
+    font-size: 100px; 
+}
+*/
+
+#box {
+    left: 50%;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    transition: all 3s linear 2s; 
+}
+
+#box1 {
+    top: 10px;
+    left: 50%;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    transition: all 3s linear 2s; 
+}
+
+#box1:hover {
+    width: 300px;
+}
+
+#box2 {
+    top: 170px;
+    background-color: blue;
+}
+
+#box2:hover {
+    height: 300px;
+}
+
+#box3 {
+    top: 340px;
+    background-color: green;
+}
+
+#box3:hover {
+    height: 300px;
+    width: 300px;
+}
+
+
+
+
+
+
+
+
+
+
