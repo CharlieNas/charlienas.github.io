@@ -1,0 +1,18 @@
+
+p {
+    height: 100px;
+    width: 100px;
+    background-color: steelblue;
+}
+
+.color1 {
+    background-color: indianred;
+}
+
+.opaque {
+    opacity: 0.6;
+}
+
+
+
+

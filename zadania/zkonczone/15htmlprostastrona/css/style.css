@@ -1,0 +1,87 @@
+
+#green1 {
+    color: green;
+}
+#blue1 {
+    color: blue;
+}
+#purple1 {
+    color: purple;
+}
+#red1 {
+    color: red;
+}
+
+
+#green2 {
+    background-color: green;
+}
+#blue2 {
+    background-color: blue;
+}
+#purple2 {
+    background-color: purple;
+}
+#red2 {
+    background-color: red;
+}
+
+.borderbox {
+    border-width: medium;
+    border-style: solid;
+    box-sizing: border-box;
+}
+#green3 {
+    border-color: green;
+}
+#blue3 {
+    border-color: blue;
+}
+#red3 {
+    border-color: red;
+}
+
+
+
+#about-us {
+    background-color: forestgreen;
+}
+
+#skills #container {
+    display: inline-block;
+    width: 100%;
+}
+
+#skills .box {
+    float: left;
+    padding-top: 25%;
+    width: 25%;
+    margin: 0;
+}
+
+
+#portofolio .container {
+    display: inline-block;
+    width: 100%;
+}
+#portofolio .borderbox {
+    float: left;
+    padding-top: calc(100% / 3);
+    width: calc(100% / 3);
+}
+
+#contact button {
+    width: 100px;
+    height: 50px;
+    background-color: seagreen;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+

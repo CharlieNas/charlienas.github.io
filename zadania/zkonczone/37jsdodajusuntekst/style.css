@@ -1,0 +1,22 @@
+body {
+    background-color: limegreen;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    margin: 10px;
+    background-color: forestgreen;
+}
+
+button {
+    border-radius: 5px;
+    padding: 2px 5px 2px 5px;
+    margin: 0 5px 0 5px;
+}
+
+
+

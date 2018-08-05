@@ -1,0 +1,49 @@
+body {
+    background-color: beige;
+    margin-left: 20px;
+}
+
+#Maintitle {
+    background-color: seagreen;
+    color: white;
+}
+
+#Subtitle {
+    background-color: skyblue;
+    color: purple;
+}
+
+#Main-para {
+    background-color: green;
+    color: springgreen;
+}
+
+#Subtitle-para {
+    background-color: lightgrey;
+    color: blue;
+}
+
+#list {
+    background-color: darkred;
+}
+
+#list1 {
+color: rgba( 0, 0, 225)
+}
+
+#list2 {
+color: rgba( 225, 0, 225)
+}
+
+#list3 {
+color: rgba( 225, 0, 0)
+}
+
+#list4 {
+color: rgba( 0, 225, 0)
+}
+
+#list5 {
+color: rgba( 0, 225, 225)
+}
+
